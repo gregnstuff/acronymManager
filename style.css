@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+#results p {
+  margin: 5px 0;
+}
